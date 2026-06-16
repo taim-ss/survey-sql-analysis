@@ -1,0 +1,4 @@
+stress_level,description,sort_order
+Low,Rarely feels academic or social pressure,1
+Medium,Occasional pressure around deadlines,2
+High,Frequent sustained academic/social pressure,3

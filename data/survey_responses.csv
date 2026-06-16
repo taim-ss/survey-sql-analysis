@@ -1,0 +1,84 @@
+respondent_id,gender,study_year,is_smoker,started_at_university,stress_level,peer_network_size,primary_reason
+1,Male,Foundation,No,N/A,High,Small,N/A
+2,Female,Year 2,No,N/A,High,Medium,N/A
+3,Female,Year 1,No,N/A,Medium,Medium,N/A
+4,Female,Year 3,Yes,Yes,Medium,Large,Stress relief
+5,Female,Foundation,Yes,Yes,High,Large,Peer social norms
+6,Male,Year 3,Yes,No,Medium,Small,Other
+7,Female,Year 2,Yes,Yes,High,Small,Other
+8,Female,Foundation,Yes,Yes,High,Large,Peer social norms
+9,Female,Foundation,Yes,Yes,High,Large,Peer social norms
+10,Female,Year 2,Yes,Yes,High,Small,Peer social norms
+11,Male,Year 3,No,N/A,Medium,Large,N/A
+12,Male,Year 1,Yes,Yes,Low,Medium,Curiosity
+13,Male,Year 3,Yes,Yes,Low,Large,Peer social norms
+14,Male,Year 3,No,N/A,Low,Medium,N/A
+15,Female,Year 2,Yes,Yes,High,Large,Other
+16,Female,Year 1,No,N/A,High,Medium,N/A
+17,Male,Foundation,Yes,No,Low,Small,Curiosity
+18,Female,Year 2,No,N/A,Low,Large,N/A
+19,Female,Year 1,Yes,No,Medium,Large,Other
+20,Male,Year 3,Yes,Yes,Medium,Large,Peer social norms
+21,Female,Year 3,No,N/A,High,Large,N/A
+22,Female,Foundation,No,N/A,Medium,Small,N/A
+23,Male,Foundation,No,N/A,Medium,Small,N/A
+24,Male,Year 1,No,N/A,Low,Small,N/A
+25,Male,Foundation,No,N/A,High,Medium,N/A
+26,Male,Year 2,No,N/A,Medium,Large,N/A
+27,Female,Foundation,No,N/A,Medium,Large,N/A
+28,Female,Year 3,Yes,Yes,Medium,Small,Peer social norms
+29,Male,Year 2,No,N/A,Low,Small,N/A
+30,Male,Foundation,No,N/A,High,Medium,N/A
+31,Male,Foundation,Yes,Yes,Medium,Large,Stress relief
+32,Male,Year 2,No,N/A,High,Medium,N/A
+33,Male,Year 2,No,N/A,Medium,Small,N/A
+34,Male,Year 3,No,N/A,Low,Large,N/A
+35,Female,Year 2,No,N/A,Low,Small,N/A
+36,Female,Year 2,No,N/A,Medium,Small,N/A
+37,Female,Year 3,Yes,Yes,High,Medium,Peer social norms
+38,Female,Year 2,Yes,Yes,High,Large,Peer social norms
+39,Male,Year 2,Yes,No,Medium,Small,Curiosity
+40,Male,Year 3,No,N/A,High,Large,N/A
+41,Male,Foundation,Yes,Yes,Medium,Large,Peer social norms
+42,Female,Year 1,Yes,Yes,High,Large,Other
+43,Male,Year 3,No,N/A,Medium,Large,N/A
+44,Male,Year 1,No,N/A,Low,Large,N/A
+45,Female,Year 1,No,N/A,Low,Small,N/A
+46,Female,Year 1,No,N/A,Medium,Large,N/A
+47,Male,Year 1,Yes,Yes,High,Small,Stress relief
+48,Male,Year 2,No,N/A,Low,Small,N/A
+49,Female,Year 2,No,N/A,Low,Large,N/A
+50,Female,Year 3,No,N/A,Low,Small,N/A
+51,Female,Year 1,Yes,Yes,High,Large,Peer social norms
+52,Male,Year 3,No,N/A,High,Large,N/A
+53,Male,Year 1,Yes,Yes,High,Large,Peer social norms
+54,Male,Foundation,Yes,Yes,High,Small,Peer social norms
+55,Female,Foundation,Yes,Yes,Medium,Large,Curiosity
+56,Male,Year 3,Yes,Yes,Medium,Medium,Academic stress
+57,Female,Year 1,No,N/A,Medium,Small,N/A
+58,Female,Year 1,Yes,Yes,Medium,Large,Peer social norms
+59,Male,Year 3,No,N/A,High,Medium,N/A
+60,Female,Foundation,Yes,No,Medium,Medium,Curiosity
+61,Male,Year 2,Yes,Yes,Medium,Large,Peer social norms
+62,Female,Year 1,No,N/A,High,Small,N/A
+63,Female,Year 1,Yes,Yes,Low,Medium,Peer social norms
+64,Female,Year 1,No,N/A,Medium,Small,N/A
+65,Female,Year 2,Yes,Yes,Medium,Medium,Stress relief
+66,Male,Year 2,No,N/A,Medium,Medium,N/A
+67,Male,Year 3,Yes,No,Medium,Medium,Stress relief
+68,Male,Foundation,No,N/A,Medium,Large,N/A
+69,Female,Year 2,Yes,Yes,Low,Large,Stress relief
+70,Female,Year 1,Yes,Yes,High,Small,Peer social norms
+71,Female,Year 1,No,N/A,Medium,Large,N/A
+72,Female,Year 2,No,N/A,High,Large,N/A
+73,Female,Foundation,Yes,No,Low,Large,Curiosity
+74,Female,Foundation,Yes,Yes,High,Large,Curiosity
+75,Female,Foundation,Yes,Yes,Medium,Large,Peer social norms
+76,Female,Year 2,No,N/A,High,Medium,N/A
+77,Male,Foundation,No,N/A,High,Small,N/A
+78,Male,Year 1,No,N/A,Low,Medium,N/A
+79,Male,Year 2,No,N/A,Medium,Large,N/A
+80,Female,Year 2,No,N/A,Low,Large,N/A
+81,Male,Foundation,No,N/A,Low,Medium,N/A
+82,Female,Year 1,No,N/A,Low,Large,N/A
+83,Female,Year 3,No,N/A,High,Small,N/A
